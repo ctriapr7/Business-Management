@@ -1,6 +1,6 @@
 # Business Management
 
-An OOP-designed Java program that manages financial aspects of a business firm that stores the input from users into database
+An end-to-end OOP-designed Java program that manages financial aspects of a business firm that stores the input from users into database
 and generates financial statements.
 
 ## Installation
