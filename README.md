@@ -12,3 +12,5 @@ Click on the buttons on UI as you wish to input, test the functions of the progr
 
 
 ### Result
+A window that if you click on 
+<img width="894" alt="Screen Shot 2022-11-30 at 11 53 04 AM" src="https://user-images.githubusercontent.com/92111953/204860304-8241f4e7-500b-47b4-b4ba-ed43c56d184a.png">
